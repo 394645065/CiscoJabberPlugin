@@ -18,6 +18,6 @@ This software works like Jabra Direct, Plantronics Hub, Sennheiser HeadSetup tha
 
 3.Run the client application (e.g. Jabber) and enter the login credentials when prompted.
 
- # Other softphone driver
+ # Other softphones driver
  
- I also develop the other softphones (e.g. Avaya, Bria, BroadSoft, Microsoft)driver to help USB auido device enable remote call control ,if you are interesting to them for commercial use, Please send me mail(394645065@qq.com).
+ I also develop other softphones (e.g. Avaya, Bria, BroadSoft, Microsoft)driver to help USB auido device enable remote call control ,if you are interesting to them for commercial use, Please send me mail(394645065@qq.com).
